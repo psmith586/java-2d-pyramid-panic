@@ -4,3 +4,8 @@
 # instructions
 clone repo
 run GameLauncher class
+
+# screenshots
+![image](resources/pyrpanic1.png)
+
+![image](resources/pyrpanic2.png)
