@@ -1,2 +1,6 @@
 # java-2d-pyramid-panic
-OOP 2D java game design (school project)
+2D java game design
+
+# instructions
+clone repo
+run GameLauncher class
