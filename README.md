@@ -1,9 +1,10 @@
 # java-2d-pyramid-panic
-2D java game design
+- 2D java game design
+- Built with Java Runnable, Swing, Canvas
 
 # instructions
-clone repo
-run GameLauncher class
+- clone repo
+- run GameLauncher class
 
 # screenshots
 ![image](resources/pyrpanic1.png)
